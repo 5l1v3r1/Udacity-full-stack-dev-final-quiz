@@ -1,6 +1,6 @@
 # Udacity-full-stack-dev-final-quiz
 The solution for the final quiz of Udacity-Fullstack Web Development Track,(www.arabcoders.ae).
-دا # Animal Trading Card Instructions
+# Animal Trading Card Instructions
 The Lab starts with the following files:
 * `card.html`
 * `clownfish.jpg`
